@@ -1,0 +1,4 @@
+# NVIDIA-API-Key von build.nvidia.com (beginnt mit nvapi-)
+NVIDIA_API_KEY=
+# Passwort, das du beim ersten Öffnen der App eingibst
+APP_PASSWORD=
